@@ -1,11 +1,5 @@
-/*
- *		Copyright (C) 1996 by Sony Computer Entertainment Inc.
- *			All rights Reserved
- *
- *		balltex.h: texture library (tentative)
- */
 
-/* 4bit 16x8 ball pattern */
+// 4bit 16x8 ball pattern
 static u_long	ball16x8[] = {
 	0x42110000,0x00055554,0x54321000,0x00677665,
 	0x77654210,0x9aa99988,0x87765420,0xabbbaa99,
@@ -13,7 +7,7 @@ static u_long	ball16x8[] = {
 	0xba970000,0x000eeedc,0xa9000000,0x00000dcb
 };
 
-/* 4bit 16x16 ball pattern */
+// 4bit 16x16 ball pattern
 static u_long	ball16x16[] = {
 	0x00000000,0x00000000,0x21000000,0x00000332,
 	0x42110000,0x00055554,0x54321000,0x00677665,
@@ -25,7 +19,7 @@ static u_long	ball16x16[] = {
 	0xba970000,0x000eeedc,0xa9000000,0x00000dcb
 };
 
-/* various CLUT for 4bit balls */
+// various CLUT for 4bit balls
 static u_long	ballcolor[][8] = {
 	
 	0x88670000,0x8cab8caa,0x94ef90cd,0x99329511,
