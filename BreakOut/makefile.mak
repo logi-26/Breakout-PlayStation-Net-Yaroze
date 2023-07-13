@@ -14,5 +14,3 @@ main.o: main.c
 clean:
 	$(RM) $(PROG) 
 	$(RM) $(OBJS)
-
-

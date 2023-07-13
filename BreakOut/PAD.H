@@ -1,9 +1,4 @@
-/*
- *		Copyright (C) 1996 by Sony Computer Entertainment Inc.
- *				All rights Reserved
- *
- *			pad.h: PadRead() accsess macro
- */
+// pad.h: PadRead() accsess macro
 
 #define PADLup     (1<<12)
 #define PADLdown   (1<<14)
