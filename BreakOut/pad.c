@@ -1,5 +1,3 @@
-//	Set of pad routines to present same interface to pad as dtlh2500
-
 #include <libps.h>
 
 // Buffers

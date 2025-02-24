@@ -1,1 +1,2 @@
-local load main
+local load main.exe
+go
